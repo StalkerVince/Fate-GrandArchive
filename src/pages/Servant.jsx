@@ -27,5 +27,3 @@ function Servant() {
 }
 
 export default Servant;
-
-//<p>{data.traits.find((e) => e.id === 2795).name}</p>
