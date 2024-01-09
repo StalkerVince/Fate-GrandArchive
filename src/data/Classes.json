@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Saber",
+    "desc": "—Knight of the Sword and Heroic Spirit of the Sword. A jack-of-all-trades warrior. Agile and powerful in close quarters; extremely adept at swordsmanship.—"
+  },
+  {
+    "id": 2,
+    "name": "Archer",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "name": "Lancer",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "name": "Rider",
+    "desc": ""
+  },
+  {
+    "id": 5,
+    "name": "Caster",
+    "desc": ""
+  },
+  {
+    "id": 6,
+    "name": "Assassin",
+    "desc": ""
+  },
+  {
+    "id": 7,
+    "name": "Berserker",
+    "desc": ""
+  },
+  {
+    "id": 8,
+    "name": "Ruler",
+    "desc": ""
+  },
+  {
+    "id": 9,
+    "name": "Avenger",
+    "desc": ""
+  },
+  {
+    "id": 10,
+    "name": "Moon Cancer",
+    "desc": ""
+  },
+  {
+    "id": 11,
+    "name": "Alter Ego",
+    "desc": ""
+  },
+  {
+    "id": 12,
+    "name": "Foreigner",
+    "desc": ""
+  },
+  {
+    "id": 13,
+    "name": "Pretender",
+    "desc": "—Those who have given false representation, deceiving and misleading others to do great deeds. Not a fake or counterfeit, but someone who deceives even the soul until more power and greater achievements than the real thing remain.—"
+  },
+  {
+    "id": 14,
+    "name": "Shielder",
+    "desc": ""
+  },
+  {
+    "id": 15,
+    "name": "Beast",
+    "desc": "—The Beasts of Calamity symbolizing the seven Evils of Man. The archetype of the Heroic Spirit Summoning System as well as the enemies of the Grand Servants.—"
+  }
+]
