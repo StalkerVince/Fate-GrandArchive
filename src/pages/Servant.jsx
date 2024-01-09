@@ -5,7 +5,6 @@ function Servant() {
   const { data } = useLoaderData();
   console.log(data);
 
-  console.log(data.traits);
   return (
     <>
       <div>
