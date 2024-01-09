@@ -1,3 +1,20 @@
+!!!REMEMBER TO USE THE JSON: NA WITH LORE ONLY (-50 Mo per Upload)!!!
+
+MUST HAVE:
+Read me
+Add details for character component
+Pagination
+Complete the Classes page description and Json file
+CSS!!!!
+Favorite system + filter
+Make Credit page
+  -Credit Atlas Academy for the API and JSON
+
+
+
+
+SHOULD HAVE:
+Rarity number shoud be converted into ⭐ (ex: 3 =⭐⭐⭐)
+On click, change character ascension to the next one (if Index 1-4)
 Add music (and a button to switch it on and off)
 Dark and Light mode
-CSS!!!!
