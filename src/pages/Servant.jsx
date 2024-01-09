@@ -5,6 +5,8 @@ function Servant() {
   const { data } = useLoaderData();
   console.log(data);
 
+  console.log(data.traits);
+
   return (
     <>
       <div>
@@ -20,6 +22,7 @@ function Servant() {
         <p>Gender: {data.gender}</p>
         <p>{data.traits[3].name}</p>
         <p>{data.traits[4].name}</p>
+        <p>{data.traits.find((e) => e.id === 2795)?.name}</p>
       </div>
     </>
   );
